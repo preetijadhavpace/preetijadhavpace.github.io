@@ -36,15 +36,18 @@ git remote add origin https://github.com/preetijadhavpace/preetijadhavpace.githu
 
 
 3️⃣ Add Website Files
+
 Place your index.html, style.css, and other files into the project folder.
 
 4️⃣ Commit & Push Files
+
 git add .
 git commit -m "Initial commit"
 git branch -M main
 git push -u origin main
 
 5️⃣ Enable GitHub Pages
+
 Go to your repository on GitHub.
 
 Click Settings → Pages (in left menu).
@@ -56,6 +59,7 @@ Choose branch: main, folder: / (root).
 Click Save.
 
 6️⃣Accessed My Live Website
+
 My site is now live at: https://preetijadhavpace.github.io/
 
 ✍ Author: Preeti Sudheer Jadhav
