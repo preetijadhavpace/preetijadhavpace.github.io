@@ -32,7 +32,7 @@ To make my website live on the internet without paid hosting by using GitHub Pag
 ### 2. Initialized Git in My Project
 Opened my project in VS Code and ran:
 git init
-git remote add origin https://github.com/<my-username>/<repo-name>.git
+git remote add origin https://github.com/preetijadhavpace/preetijadhavpace.github.io.git
 
 
 3️⃣ Add Website Files
