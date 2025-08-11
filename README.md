@@ -54,6 +54,7 @@ Under Source, select Deploy from branch.
 Choose branch: main, folder: / (root).
 
 Click Save.
+
 6️⃣Accessed My Live Website
 My site is now live at: https://preetijadhavpace.github.io/
 
