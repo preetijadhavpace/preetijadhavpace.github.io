@@ -64,3 +64,19 @@ li.completed {
   padding: 4px 8px;
   cursor: pointer;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+footer a {
+    color: #00acee;
+    text-decoration: none;
+}
