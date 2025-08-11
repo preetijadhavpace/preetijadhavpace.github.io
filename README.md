@@ -55,8 +55,8 @@ Choose branch: main, folder: / (root).
 
 Click Save.
 6️⃣Accessed My Live Website
-My site is now live at:
+My site is now live at: https://preetijadhavpace.github.io/
 
 ✍ Author: Preeti Sudheer Jadhav
 📧 Email: preetisj711@gmail.com
-🌐 Portfolio:
+
